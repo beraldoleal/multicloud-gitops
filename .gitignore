@@ -7,3 +7,6 @@ pattern-vault.init
 vault.init
 super-linter.log
 common/pattern-vault.init
+
+charts/all/trustee-operator/files/*
+!charts/all/trustee-operator/files/.gitkeep
